@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: rgb(175, 58, 58);
+}
+.button {
+    border-radius: 5px;
+    border-color: #FFF;
+    box-shadow: #FFF;
+    background-color: #ce8c8c;
+    color: rgb(175, 58, 58);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 200px;
+    height: 60px; 
+    margin: 0 auto;
+    font-size: 23px;
+    font-weight: bold;
+}
